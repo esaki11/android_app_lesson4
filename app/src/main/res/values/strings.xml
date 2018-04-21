@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">MyOwnFlashCards</string>
+    <string name="app_name">My単語帳</string>
+    <string name="change_color">画面の背景色を変更する場合は以下から選んでください</string>
 </resources>
