@@ -1,7 +1,15 @@
 <resources>
     <string name="app_name">My単語帳</string>
+    <!--Main-->
     <string name="change_color">画面の背景色を変更する場合は以下から選んでください</string>
+    <!--wordlist-->
     <string name="word_list">登録</string>
+    <!--Edit-->
     <string name="instruction_word_list">修正はその単語をタップ、削除の場合は長押ししてください</string>
     <string name="edit_instruction">問題と答えを入力して登録ボタンを押してください</string>
+    <!--status-->
+    <string name="status_add">新しい単語の追加</string>
+    <string name="status_change">登録した単語の修正</string>
+    <!--インテントで渡すキー-->
+    <string name="intent_key_status">intent_key_status</string>
 </resources>
