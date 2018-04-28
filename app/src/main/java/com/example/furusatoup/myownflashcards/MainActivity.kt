@@ -21,6 +21,7 @@ class MainActivity : AppCompatActivity() {
 
 //        「色」ボタンを押した場合
 //        画面の背景色をボタンの色に変更
+<<<<<<< HEAD
         var intBackGroundColor = 0
         buttonColor01.setOnClickListener {
             intBackGroundColor = R.color.color01
@@ -46,5 +47,13 @@ class MainActivity : AppCompatActivity() {
             intBackGroundColor = R.color.color06
             constraintLaioutMain.setBackgroundResource(intBackGroundColor)
         }
+=======
+        buttonColor01.setOnClickListener {  }
+        buttonColor02.setOnClickListener {  }
+        buttonColor03.setOnClickListener {  }
+        buttonColor04.setOnClickListener {  }
+        buttonColor05.setOnClickListener {  }
+        buttonColor06.setOnClickListener {  }
+>>>>>>> 2eba7c3eb64756c46d57773bac05bac8084e1959
     }
 }
